@@ -6,7 +6,7 @@
 
 - I'm interested in finding nuances and patterns in data, regardless of the subject matter. 
 
-- I particularly love complex relational data and using it to answer question,
+- I particularly love complex relational data and using it to answer questions,
   even if those questions haven't even been asked. Sometimes, the data does all the talking.
   
 - Currently, amidst looking for jobs, I am completing Udemy's MySQL bootcamp to increase my language abilities and gain 
