@@ -1,5 +1,7 @@
 - 👋 Hello World, I’m @markwellj!
 
+- Check out some of my work from my master's program below.
+
 - I'm a recent graduate from the University of Edinburgh's MSc in Business Analytics program.
 
 - I'm interested in finding nuances and patterns in data, regardless of the subject matter. 
