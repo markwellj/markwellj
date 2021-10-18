@@ -1,6 +1,6 @@
 - 👋 Hello World, I’m @markwellj!
 
-- Check out some of my work from my master's program below.
+- Check out some work/code from my master's and undergraduate degrees below.
 
 - I'm a recent graduate from the University of Edinburgh's MSc in Business Analytics program.
 
@@ -9,7 +9,7 @@
 - I particularly love complex relational data and using it to answer questions,
   even if those questions haven't even been asked. Sometimes, the data does all the talking.
   
-- Currently, amidst looking for jobs, I am completing Udemy's MySQL bootcamp to increase my language abilities and gain 
+- Currently, amidst looking for jobs, I have recently completed Udemy's MySQL bootcamp to increase my language abilities and gain 
   greater insight into application web development.
 
 - 📫 I'm easily reachable at:
